@@ -1,0 +1,6 @@
+framework module Pods_MobiddictionLottieTutorial {
+  umbrella header "Pods-MobiddictionLottieTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
